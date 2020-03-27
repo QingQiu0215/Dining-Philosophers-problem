@@ -1,0 +1,7 @@
+task4
+There is an array "int [] philosopherEated;" in the class "Monitor" whick records if the philosopher eated or not.
+Ensures that people don't starve by not getting a turn. 
+1. if there are any philosophers have not eaten, they will eat firstly.
+2. if all philosophers have eaten, they are not starved. They can eat without starvation.
+
+So each philosopher eat at least once. 
